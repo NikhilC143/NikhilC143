@@ -21,7 +21,7 @@
 <h4>Badges
 <img src ="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white"></h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilc143&show_icons=true&locale=en&layout=compact" alt="nikhilc143" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilc143&show_icons=true&locale=en" alt="nikhilc143" /></p>
 
